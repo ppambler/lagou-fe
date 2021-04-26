@@ -11,7 +11,8 @@
 > 本模块带你快速回顾 ECMAScript 新版本中主要的语言特性以及降级处理的方案；同时深入理解 JavaScript 的运行机制，深入剖析 Promise、解决异步编程中回调地狱问题，并且掌握使用语法糖简化异步编程代码；另外会学习 TypeScript 语言，解决 JavaScript 类型系统的不足。
 
 - [01-ECMAScript 新特性](./01.md)
-  - [01-1-var let const](./01-1.md)
+  - [01-1-var、let、const](./01-1.md)
+  - [01-2-数组的解构、对象的解构](./01-2.md)
 - [02-JavaScript 异步编程](./02.md)
 - [03-TypeScript 语言](./03.md)
 
