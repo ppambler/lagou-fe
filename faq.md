@@ -15,3 +15,7 @@
 - [zce/web-essential-docs: Web 开发基础手册，以 PHP 为例](https://github.com/zce/web-essential-docs)
 - [git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/index.zh.html)
 - [godbasin/vue-ebook: 《深入理解 Vue.js 实战》- 介绍 Vue.js 框架的出现、设计和使用，结合实战让读者更深入理解 Vue.js 框架，掌握使用方法。](https://github.com/godbasin/vue-ebook)
+
+3）一些不错的教程？
+
+- [udemy/ES6.md at master · JulianoPadilha/udemy](https://github.com/JulianoPadilha/udemy/blob/master/ES6.md)
