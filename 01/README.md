@@ -17,6 +17,7 @@
   - [01-4-参数默认值、剩余参数、展开数组](./01-4.md)
   - [01-5-箭头函数、箭头函数与this](./01-5.md)
   - [01-6-对象字面量的增强、Object.assign、Object.is](./01-6.md)
+  - [01-7-Proxy、Proxy vs defineProperty、Reflect](./01-7.md)
 - [02-JavaScript 异步编程](./02.md)
 - [03-TypeScript 语言](./03.md)
 
