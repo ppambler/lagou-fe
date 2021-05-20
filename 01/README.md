@@ -18,6 +18,7 @@
   - [01-5-箭头函数、箭头函数与this](./01-5.md)
   - [01-6-对象字面量的增强、Object.assign、Object.is](./01-6.md)
   - [01-7-Proxy、Proxy vs defineProperty、Reflect](./01-7.md)
+  - [01-8-Promise、class类、静态方法、类的继承](./01-8.md)
 - [02-JavaScript 异步编程](./02.md)
 - [03-TypeScript 语言](./03.md)
 
