@@ -15,10 +15,11 @@
   - [01-2-数组的解构、对象的解构](./01-2.md)
   - [01-3-模板字符串、带标签的模板字符串、字符串的扩展方法](./01-3.md)
   - [01-4-参数默认值、剩余参数、展开数组](./01-4.md)
-  - [01-5-箭头函数、箭头函数与this](./01-5.md)
+  - [01-5-箭头函数、箭头函数与 this](./01-5.md)
   - [01-6-对象字面量的增强、Object.assign、Object.is](./01-6.md)
   - [01-7-Proxy、Proxy vs defineProperty、Reflect](./01-7.md)
-  - [01-8-Promise、class类、静态方法、类的继承](./01-8.md)
+  - [01-8-Promise、class 类、静态方法、类的继承](./01-8.md)
+  - [01-9-Set、Map、Symbol、Symbol 补充](./01-9.md)
 - [02-JavaScript 异步编程](./02.md)
 - [03-TypeScript 语言](./03.md)
 
