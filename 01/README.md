@@ -20,7 +20,7 @@
   - [01-7-Proxy、Proxy vs defineProperty、Reflect](./01-7.md)
   - [01-8-Promise、class 类、静态方法、类的继承](./01-8.md)
   - [01-9-Set、Map、Symbol、Symbol 补充](./01-9.md)
-  - [01-10-for...of 循环、可迭代接口、实现可迭代接口、迭代器模式、生成器、生成器应用](./01-10.md)
+  - [01-10-for...of 循环、可迭代接口、实现可迭代接口、迭代器模式](./01-10.md)
 - [02-JavaScript 异步编程](./02.md)
 - [03-TypeScript 语言](./03.md)
 
