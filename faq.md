@@ -19,3 +19,9 @@
 3）一些不错的教程？
 
 - [udemy/ES6.md at master · JulianoPadilha/udemy](https://github.com/JulianoPadilha/udemy/blob/master/ES6.md)
+
+4）其他学员的笔记？
+
+- [TypeScript 快速入门](https://juejin.cn/post/6857323329137672206)
+- [山有木兮的博客_小濠子_CSDN博客-笔记领域博主](https://blog.csdn.net/qinshengnan520?t=1)
+- [古川 - 知乎](https://www.zhihu.com/people/gua-niu-30-14/posts?page=2)
