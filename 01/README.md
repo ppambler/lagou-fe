@@ -40,4 +40,6 @@
   - [04-6-函数组合概念、Lodash 中的组合函数、组合函数原理模拟](./04-6.md)
   - [04-7-函数组合-结合律、函数组合-调试、Lodash-fp 模块、Lodash-map 方法的小问题](./04-7.md)
   - [04-8-Pointfree、Pointfree-案例](./04-8.md)
+  - [04-9-Functor、Functor 总结、MayBe 函子、Either 函子、IO 函子](./04-9.md)
+  - [04-10-Folktale、Task 函子、Pointed 函子、IO 函子问题、Monad 函子、总结](./04-10.md)
 - [05-JavaScript 性能优化](./05.md)
