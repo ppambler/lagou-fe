@@ -26,3 +26,5 @@
 - [山有木兮的博客_小濠子_CSDN 博客-笔记领域博主](https://blog.csdn.net/qinshengnan520?t=1)
 - [古川 - 知乎](https://www.zhihu.com/people/gua-niu-30-14/posts?page=2)
 - [学习目录-拉钩大前端高薪训练营_Jack おう的博客-CSDN 博客_大前端高薪训练营](https://blog.csdn.net/weixin_45345105/article/details/110091105)
+- [函数式编程 · 语雀](https://www.yuque.com/jxsylar/xpwhrp/wcnodv#QqPqW)
+- [黑桃J - 知乎](https://www.zhihu.com/people/gong-ye-18-46)
