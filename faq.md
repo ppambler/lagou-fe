@@ -28,3 +28,4 @@
 - [学习目录-拉钩大前端高薪训练营_Jack おう的博客-CSDN 博客_大前端高薪训练营](https://blog.csdn.net/weixin_45345105/article/details/110091105)
 - [函数式编程 · 语雀](https://www.yuque.com/jxsylar/xpwhrp/wcnodv#QqPqW)
 - [黑桃J - 知乎](https://www.zhihu.com/people/gong-ye-18-46)
+- [深入理解JavaScript函数式编程 · 语雀](https://www.yuque.com/jakeprim/frontendhouse/cb6u5x)
