@@ -11,6 +11,13 @@
 - 项目代码：[lipengzhou/edu-boss-fed](https://github.com/lipengzhou/edu-boss-fed)
 - 预览：[edu-boss-fed](https://edu-boss-fed-git-master-lpz.vercel.app/#/login?redirect=%2F)
 
+常用工具：
+
+- 测试接口时，需要填`json`格式的数据，但给出的示例代码是普通对象，所以需要转化一下
+  - 转化工具：[Convert Javascript to JSON](https://www.convertonline.io/convert/js-to-json)
+- 响应会来的`json`数据，在 Postman 里边不好查看
+  - 查看工具：[JSON 在线视图查看器 (Online JSON Viewer)](https://www.bejson.com/jsonviewernew/)
+
 #### <mark>1、Vue 项目实战</mark>
 
 - [06-1-使用 VueCLI 创建项目、加入 Git 版本管理、初始目录结构说明、调整初始目录结构](./06-1.md)
@@ -28,7 +35,7 @@
 
 #### <mark>3、用户权限</mark>
 
-> 用户能干什么？能看到什么菜单？能看到什么页面？能有什么资源操作（如你对这个资源只能看，不能改和删等）？ -> 看分配了啥角色？（角色是权限的分组） -> 不同的角色有不同的菜单操作权限和资源操作权限
+> 用户能干什么？能看到什么菜单？能看到什么页面？能对资源有什么操作（如你对这个资源只能看，不能改和删等）？ -> 看分配了啥角色？（角色是权限的分组） -> 不同的角色有不同的菜单操作权限和资源操作权限
 > 
 > 资源就是操作接口，自行添加一个角色， 而这角色可以访问哪些资源是需要自己自行配置的！
 > 
