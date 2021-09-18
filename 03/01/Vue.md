@@ -10,6 +10,9 @@
 
 - 项目代码：[lipengzhou/edu-boss-fed](https://github.com/lipengzhou/edu-boss-fed)
 - 预览：[edu-boss-fed](https://edu-boss-fed-git-master-lpz.vercel.app/#/login?redirect=%2F)
+- 设计稿：[Edu boss管理系统](http://eduboss.lagou.com/#/login) -> 用户名`18201288771`，密码`111111`
+- 前端页面接口文档：[edu-front-boot API Documents](http://113.31.105.128/front/doc.html#/home) -> 前端页面：[拉勾教育 - 拉勾旗下教育平台](http://edufront.lagou.com/#/)
+- 后台管理系统页面接口文档：[edu-boss-boot API Documents](http://eduboss.lagou.com/boss/doc.html#/home)
 
 常用工具：
 
