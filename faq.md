@@ -8,6 +8,7 @@
 - [lagoufed/fed-e-task-template: 拉勾教育大前端高薪训练营作业要求](https://github.com/lagoufed/fed-e-task-template)
 - [lagoufed/fed-e-001: 大前端高薪训练营 001 期相关资料仓库](https://github.com/lagoufed/fed-e-001)
 - [lagoufed/fed-e-readme: 拉勾教育 - 大前端高薪进阶训练营入营资料](https://github.com/lagoufed/fed-e-readme)
+- [全部课程 - 汪磊的个人网站](https://blog.zce.me/courses/)
 
 ### <mark>2）前置知识？</mark>
 
@@ -30,3 +31,8 @@
 - [函数式编程 · 语雀](https://www.yuque.com/jxsylar/xpwhrp/wcnodv#QqPqW)
 - [黑桃 J - 知乎](https://www.zhihu.com/people/gong-ye-18-46)
 - [深入理解 JavaScript 函数式编程 · 语雀](https://www.yuque.com/jakeprim/frontendhouse/cb6u5x)
+- [w1fl1w 的博客_CSDN 博客-前端，vue.js,SSR 领域博主](https://blog.csdn.net/w1fl1w?t=1)
+- [直播课：20200810 - Baizixv Bookmarks](https://baizixv.gitee.io/bookmarks/interviews/20200810%E7%9B%B4%E6%92%AD%E8%AF%BE.html#npm-%E5%AE%89%E8%A3%85%E6%A8%A1%E5%9D%97%E8%B6%85%E6%97%B6-%E8%BF%9E%E6%8E%A5%E9%94%99%E8%AF%AF)
+- [vimin_M 的博客_CSDN 博客-大前端课程总结，前端学习之旅，玩转 Canvas 领域博主](https://blog.csdn.net/weixin_45449964?t=1)
+- [顽皮的雪狐七七 的个人主页 - 文章 - 掘金](https://juejin.cn/user/2735240659352702/posts)
+- [qiong 的叮当响 - 知乎](https://www.zhihu.com/people/wutenghui/posts)
