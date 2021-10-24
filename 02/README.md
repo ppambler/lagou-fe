@@ -18,6 +18,8 @@
 
 - [02-脚手架工具概要、常用的脚手架工具](./01/02.md)
 - [03-Yeoman 简介、Yeoman 基础使用、Sub Generator、Yeoman 使用步骤总结](./01/03.md)
+- [04-自定义 Generator、创建 Generator 模块、根据模板创建文件、接收用户输入、Vue Generator 案例、发布 Generator](./01/04.md)
+- [05-Plop 简介、Plop 的基本使用、脚手架的工作原理](./01/05.md)
 
 ### <mark>2）模块二：模块化开发与规范化标准</mark>
 
