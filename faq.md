@@ -8,6 +8,7 @@
 - [lagoufed/fed-e-task-template: 拉勾教育大前端高薪训练营作业要求](https://github.com/lagoufed/fed-e-task-template)
 - [lagoufed/fed-e-001: 大前端高薪训练营 001 期相关资料仓库](https://github.com/lagoufed/fed-e-001)
 - [lagoufed/fed-e-readme: 拉勾教育 - 大前端高薪进阶训练营入营资料](https://github.com/lagoufed/fed-e-readme)
+- [prepare/use.md · 拉勾教育/大前端高薪训练营 017 期 - Gitee.com](https://gitee.com/lagoufed/fed-e-017/blob/master/prepare/use.md)
 - [全部课程 - 汪磊的个人网站](https://blog.zce.me/courses/)
 
 ### <mark>2）前置知识？</mark>
@@ -36,3 +37,4 @@
 - [vimin_M 的博客_CSDN 博客-大前端课程总结，前端学习之旅，玩转 Canvas 领域博主](https://blog.csdn.net/weixin_45449964?t=1)
 - [顽皮的雪狐七七 的个人主页 - 文章 - 掘金](https://juejin.cn/user/2735240659352702/posts)
 - [qiong 的叮当响 - 知乎](https://www.zhihu.com/people/wutenghui/posts)
+- [★大前端_爱玲姐姐的博客-CSDN博客](https://blog.csdn.net/jal517486222/category_10134773.html)
