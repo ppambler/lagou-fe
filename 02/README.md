@@ -56,3 +56,6 @@
 - [03-ES Modules 导入导出的注意事项](./02/03.md)
 - [04-ES Modules 导入用法、ES Modules 导出导入成员](./02/04.md)
 - [05-ES Modules 浏览器环境 Polyfill](./02/05.md)
+- [06-ES Modules in Node.js - 支持情况](./02/06.md)
+- [07-ES Modules in Node.js - 与 CommonJS 交互、ES Modules in Node.js - 与 CommonJS 的差异](./02/07.md)
+- [08-ES Modules in Node.js - 新版本进一步支持、ES Modules in Node.js - Babel 兼容方案](./02/08.md)
