@@ -1,8 +1,16 @@
 了解了如何在 node 环境当中去运行 ES Modules 这样一个特性过后，我们再来去看一下如何在 ES Modules 当中去载入 CommonJS 模块。
 
+1）准备两个 JS 文件
+
 我们回到开发工具当中，在这里我准备了两个 JS 文件，分别用来去编写不同标准的模块。
 
+![JS 文件](assets/img/2021-11-14-11-34-07.png)
+
+2）CommonJS 导出默认成员，ESM 导入默认成员
+
 我先在屏幕右侧这个模块当中去定义一个普通的 CommonJS 模块 -> 这个模块直接导出一个对象，对象当中定义了一个叫做 `foo` 的属性 -> 这个属性的值是一个字符串。
+
+![导入成员](assets/img/2021-11-14-11-36-27.png)
 
 我再回到屏幕左侧当中，我们通过 ES Module 的方式去载入这个 CommonJS 模块，我们把它打印出来。
 
@@ -14,7 +22,13 @@
 
 此时我们能看到正常的一个打印 -> 这也就意味着我们确实可以在 ES Modules 中去载入 CommonJS 当中所提供的成员。
 
+3）使用`exports`别名导出成员
+
+1、`exports`姿势也是默认导出
+
 除此之外，我们还可以在 CommonJS 当中使用 `exports`这个别名。
+
+![exports 别名](assets/img/2021-11-14-11-41-50.png)
 
 如果你对 CommonJS 之前有一定的了解的话，那你应该知道 `exports` 实际上就是 `module.exports` 的一个别名 -> 这也就是说它们俩实际上是等价的。
 
@@ -22,7 +36,11 @@
 
 在这儿需要注意的就是我们 CommonJS 如果说你在 ES Modules 当中去引用的话，它始终只会导出一个默认的成员 -> 这也就意味着我们只能通过 `import` 载入默认成员的方式去使用 CommonJS 模块。
 
+2、不能用 ESM 提取成员的方式提取`exports`导出的成员
+
 如果说我这儿尝试去直接提取我们 CommonJS 当中的这个 `foo`，那这个时候我们把这个 `foo` 打印出来，然后回到命令行当中，我们再次去执行一下这个命令。
+
+![提取成员](assets/img/2021-11-14-11-45-17.png)
 
 此时你就会发现我们屏幕上给出来一个错误信息，说的是：CommonJS 这个模块并没有导出一个叫做 `foo` 的成员。
 
@@ -30,7 +48,11 @@
 
 在这里，你一定要注意 `import` 它不是对我们导出对象的一个解构。
 
+4）ESM 导出成员，CommonJS 导入成员
+
 除此之外，我们还可以尝试反过来通过 CommonJS 去载入 ES Modules。
+
+![ESM 导出模块](assets/img/2021-11-14-11-51-12.png)
 
 在这个地方，我们在这个 ES Modules 当中，我们去定义一个导出的变量，这个变量叫做 `foo`
 
@@ -40,9 +62,11 @@
 
 此时我们运行的这个入口就不再是 ES Modules 了，而是 CommonJS 这个文件。
 
-在这个地方你会发现在 node 环境当中它不允许我们直接通过 CommonJS 模块去载入 ES Modules -> 这个地方是需要注意的
+在这个地方你会发现**在 node 环境当中它不允许我们直接通过 CommonJS 模块去载入 ES Modules**-> 这个地方是需要注意的
 
 当然了，可能你在其他的一些环境，例如像 Webpack 打包的那种环境当中，你会发现它是可以的。但是在 node 这个原生的环境当中是不支持这种方式的。
+
+5）总结
 
 以上这几点就是我们在 node 环境当中 ES Modules 去调用 CommonJS 的一些用法以及一些注意事项。
 
@@ -55,3 +79,41 @@
 最后一定要注意 `import` 它不是去解构导出的对象，它只是一个固定的用法，它去提取模块当中导出的那些命名成员。
 
 ![三点](assets/img/2021-11-14-00-11-42.png)
+
+6）完整代码
+
+`commonjs.js`：
+
+``` js
+// CommonJS 模块始终只会导出一个默认成员
+
+// module.exports = {
+//   foo: 'commonjs exports value'
+// }
+
+// exports.foo = 'commonjs exports value'
+
+// 不能在 CommonJS 模块中通过 require 载入 ES Module
+
+// const mod = require('./es-module.mjs')
+// console.log(mod)
+```
+
+`es-module.mjs`：
+
+``` js
+// ES Module 中可以导入 CommonJS 模块
+
+// import mod from './commonjs.js'
+// console.log(mod)
+
+// 不能直接提取成员，注意 import 不是解构导出对象
+
+// import { foo } from './commonjs.js'
+// console.log(foo)
+
+// export const foo = 'es module export value'
+```
+
+
+
