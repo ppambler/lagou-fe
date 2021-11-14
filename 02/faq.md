@@ -86,3 +86,19 @@ Husky：
 ➹：[GitHook 工具 —— husky 介绍及使用](https://www.cnblogs.com/jiaoshou/p/12222665.html)
 
 ➹：[【工具推荐】使用 husky 避免糟糕的 git commit - 知乎](https://zhuanlan.zhihu.com/p/35913229)
+
+### <mark>5）关于模块化？</mark>
+
+➹：[Javascript 模块化编程（一）：模块的写法 - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2012/10/javascript_module.html)
+
+➹：[如何理解 es6 中的 import 是静态编译执行的？（一说是编译期执行的）？ - 知乎](https://www.zhihu.com/question/265631914)
+
+➹：[一起来看 Dynamic Import 和 Top-level await - 知乎](https://zhuanlan.zhihu.com/p/129909021)
+
+➹：[require，import 区别？ - 知乎](https://www.zhihu.com/question/56820346)
+
+➹：[ES6 模块和 CommonJS 模块有哪些差异？ · Issue #43 · YvetteLau/Step-By-Step](https://github.com/YvetteLau/Step-By-Step/issues/43)
+
+➹：[node.js 学习笔记（四）module 系统和 node 中的深拷贝、浅拷贝_treblez's blog-CSDN 博客](https://blog.csdn.net/treblez/article/details/103641583)
+
+➹：[commonjs 的导出是值拷贝吗？- 掘金](https://juejin.cn/post/6844904052841512973)
