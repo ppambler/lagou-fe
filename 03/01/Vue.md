@@ -10,7 +10,7 @@
 
 - 项目代码：[lipengzhou/edu-boss-fed](https://github.com/lipengzhou/edu-boss-fed)
 - 预览：[edu-boss-fed](https://edu-boss-fed-git-master-lpz.vercel.app/#/login?redirect=%2F)
-- 设计稿：[Edu boss管理系统](http://eduboss.lagou.com/#/login) -> 用户名`18201288771`，密码`111111`
+- 参考：[Edu boss管理系统](http://eduboss.lagou.com/#/login) -> 用户名`18201288771`，密码`111111`
 - 前端页面接口文档：[edu-front-boot API Documents](http://113.31.105.128/front/doc.html#/home) -> 前端页面：[拉勾教育 - 拉勾旗下教育平台](http://edufront.lagou.com/#/)
 - 后台管理系统页面接口文档：[edu-boss-boot API Documents](http://eduboss.lagou.com/boss/doc.html#/home)
 
@@ -63,3 +63,9 @@
 - [06-16-课程内容](./06-16.md)
 - [06-17-上传课时视频](./06-17.md)
 - [06-18-代码](./06-18.md)
+
+#### <mark>6、发布部署</mark>
+
+> 有跨域请求 -> GitHub Pages 这种部署不行 -> 选择 vercel -> 在项目根目录下创建 `api/proxy.js`、`vercel.json` -> 在部署之前，先在本地测试打包结果 -> 创建一个 Node Serve
+
+- [06-19-发布部署](./06-19.md)
